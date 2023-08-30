@@ -1,0 +1,19 @@
+{
+  "name": "irc-chat",
+  "version": "1.0.0",
+  "description": "irc chat",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermea23/irc-chat.git"
+  },
+  "author": "guilhermea23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermea23/irc-chat/issues"
+  },
+  "homepage": "https://github.com/guilhermea23/irc-chat#readme"
+}
